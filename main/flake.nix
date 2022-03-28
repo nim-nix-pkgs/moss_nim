@@ -11,6 +11,7 @@
   inputs.src-moss_nim-main.ref   = "refs/heads/main";
   inputs.src-moss_nim-main.owner = "D4D3VD4V3";
   inputs.src-moss_nim-main.repo  = "moss_nim";
+  inputs.src-moss_nim-main.dir   = "";
   inputs.src-moss_nim-main.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
