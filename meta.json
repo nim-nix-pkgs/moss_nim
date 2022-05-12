@@ -7,8 +7,37 @@
   "license": "MIT",
   "web": "https://github.com/D4D3VD4V3/moss_nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/D4D3VD4V3/moss_nim/': OpenSSL SSL_read: Connection timed out, errno 110",
+    "refs/heads/main",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "name": "moss_nim",
+      "version": "0.1.0",
+      "author": "D4D3VD4V3",
+      "desc": "Moss (Measure of Software Similarity) implementation in Nim.",
+      "license": "MIT",
+      "skipDirs": [],
+      "skipFiles": [],
+      "skipExt": [],
+      "installDirs": [],
+      "installFiles": [],
+      "installExt": [],
+      "requires": [
+        {
+          "name": "nim",
+          "str": ">= 1.2.0",
+          "ver": {
+            "kind": "verEqLater",
+            "ver": "1.2.0"
+          }
+        }
+      ],
+      "bin": [],
+      "binDir": "",
+      "srcDir": "src",
+      "backend": "c",
+      "ref": "refs/heads/main"
+    }
+  ]
 }
