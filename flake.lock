@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668748881,
-        "narHash": "sha256-mTrYQskikxPwLA3CcacIeFuqNxKxbnjQUh491Bu8hho=",
+        "lastModified": 1668754649,
+        "narHash": "sha256-ZmsbWDUhyw0Uqfq9BHitgeQ/oUq3fLZCWCVwspRhRNk=",
         "owner": "nim-nix-pkgs",
         "repo": "moss_nim",
-        "rev": "a667ff0f3e5d9aa9cfe62938d9711bcb0852d1c0",
+        "rev": "fb13c91555816c1aa6e1716baa79e1cc7e69e06d",
         "type": "github"
       },
       "original": {
